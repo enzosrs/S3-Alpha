@@ -82,10 +82,6 @@
     <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="20"/> <strong>AI-Powered Prediction</strong>: Smarter, more accurate trading insights.</li>
     <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/mobile.png" width="20"/> <strong>Mobile App Enhancement</strong>: Smoother UI, faster performance.</li>
   </ul>
-  <!-- GIF Animation -->
-  <div align="center">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Future Tech Animation" width="150"/>
-  </div>
 </div>
 
 
@@ -118,10 +114,6 @@
 <div style="background: linear-gradient(135deg, #f97316, #facc15); padding: 15px; border-radius: 8px; color: white; text-align: center; animation: fadeIn 1.5s ease-in;">
   <h3 style="color: #fff;">Get in Touch</h3>
   <p><img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="20"/> Reach out on Telegram: <code>@enzosrs</code></p>
-  <!-- GIF Animation -->
-  <div>
-    <img src="https://media.giphy.com/media/26BRBKqUgquxbqdcA/giphy.gif" alt="Contact Animation" width="150"/>
-  </div>
 </div>
 
 
