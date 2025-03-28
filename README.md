@@ -126,18 +126,25 @@
 
 
 
-## Developer Info
+<div style="display: flex; align-items: center;">
+  <!-- Programming Languages and Technologies section -->
+  <div style="flex: 1;">
+    <h2>Developer Info</h2>
+    <p>Hello! I'm Enzo, an experienced Web Developer, Android App Developer, and Advanced Telegram Bot Creator. I specialize in crafting intuitive applications, robust web platforms, and innovative automation solutions. My work is focused on delivering high-quality, user-friendly experiences that blend functionality with cutting-edge technology.</p>
+<h3>🛠️ Programming Languages</h3>
+<ul>
+  <li><img src="https://img.icons8.com/color/48/000000/html-5.png" width="20"/> HTML</li>
+  <li><img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS</li>
+  <li><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="20"/> JavaScript</li>
+  <li><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="20"/> Python</li>
+  <li><img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> React JS</li>
+  <li><img src="https://img.icons8.com/color/48/000000/php.png" width="20"/> PHP</li>
+  <li><img src="https://img.icons8.com/color/48/000000/bash.png" width="20"/> Bash</li>
+</ul>
 
-<div style="background: linear-gradient(135deg, #10b981, #047857); padding: 15px; border-radius: 8px; color: white; animation: slideIn 1.5s ease-in;">
-  <h3 style="color: #fff;"><img src="https://img.icons8.com/color/48/000000/user.png" width="20"/> Hello, I’m @enzosrs!</h3>
-  <p>A passionate developer with over 5 years of experience, delivering cutting-edge solutions.</p>
-  <h4 style="color: #d1fae5;">Expertise</h4>
-  <ul style="list-style: none; padding: 0;">
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/globe.png" width="20"/> <strong>Websites, Apps & Telegram Bots</strong>: Full-stack development.</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/paint-palette.png" width="20"/> <strong>UI/UX Design</strong>: Aesthetic, user-focused interfaces.</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/shield.png" width="20"/> <strong>Uncrackable Security</strong>: Advanced encryption & logic.</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/code.png" width="20"/> <strong>Programming</strong>: HTML, CSS, JS, PHP, Python, Node.js.</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/toolbox.png" width="20"/> <strong>Frameworks</strong>: Bootstrap, Tailwind, React, Laravel.</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/cloud.png" width="20"/> <strong>Cloud & APIs</strong>: AWS, Google Cloud, RESTful services.</li>
-  </ul>
+
+  <!-- GIF section placed on the right side -->
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="200" />
+  </div>
 </div>
