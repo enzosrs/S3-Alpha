@@ -1,7 +1,8 @@
 
-<p align="center">
-  <img src="dp.jpg" alt="S3 Alpha Logo" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</p>
+<div style="text-align: center;">
+  <img src="dp.jpg" alt="S3 Alpha Logo" width="150" 
+       style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); display: block; margin: auto;"/>
+</div>
 
 <p align="center" style="font-size: 18px; color: #555;"><em>The Future of Color Trading</em></p>
 
