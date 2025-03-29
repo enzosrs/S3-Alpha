@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="S3 Alpha Logo" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="dp.jpg" alt="S3 Alpha Logo" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </p>
 
 <p align="center" style="font-size: 18px; color: #555;"><em>The Future of Color Trading</em></p>
