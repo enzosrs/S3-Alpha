@@ -67,9 +67,9 @@
   <h3 style="color: #343a40;">Choose Your Plan</h3>
   <ul style="list-style: none; padding: 0;">
     <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-3.png" width="20"/> <strong>3 Days</strong>: ₹399 (No Refund)</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-7.png" width="20"/> <strong>7 Days</strong>: ₹699 (Single-Time Refund: 40-60%)</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-15.png" width="20"/> <strong>15 Days</strong>: ₹999 (Single-Time Refund: 40-60%)</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-31.png" width="20"/> <strong>1 Month</strong>: ₹1499 (Single-Time Refund: 40-60%)</li>
+    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-7.png" width="20"/> <strong>7 Days</strong>: ₹699 (Single-Time Refund: 40-50%)</li>
+    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-15.png" width="20"/> <strong>15 Days</strong>: ₹999 (Single-Time Refund: 50-55%)</li>
+    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-31.png" width="20"/> <strong>1 Month</strong>: ₹1499 (Single-Time Refund: 60%)</li>
   </ul>
 </div>
 
