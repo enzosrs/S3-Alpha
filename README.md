@@ -48,15 +48,17 @@
 
 ## How to Use S3 Alpha
 
-<div style="background: linear-gradient(135deg, #4ecdc4, #45b7d1); padding: 15px; border-radius: 8px; color: white; animation: fadeIn 1.5s ease-in;">
-  <h3>Simple Steps to Get Started</h3>
-  <ol style="padding-left: 20px;">
-    <li><img src="https://img.icons8.com/color/48/000000/download.png" width="20"/> <strong>Download the APK</strong>: Get the S3 Alpha app from the official source.</li>
-    <li><img src="https://img.icons8.com/color/48/000000/key.png" width="20"/> <strong>Buy a Key</strong>: Purchase your activation key from <code>@enzosrs</code> on Telegram.</li>
-    <li><img src="https://img.icons8.com/color/48/000000/play.png" width="20"/> <strong>Open & Play</strong>: Launch the app, enter your key, and start trading with AI-guided insights.</li>
+<div style="background: linear-gradient(135deg, #4ecdc4, #45b7d1, #96c93d); padding: 20px; border-radius: 12px; color: white; box-shadow: 0 6px 12px rgba(0,0,0,0.2); animation: fadeIn 1.5s ease-in;">
+  <h3 style="text-align: center; font-size: 24px; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">Simple Steps to Master S3 Alpha</h3>
+  <ol style="padding-left: 20px; font-size: 16px;">
+    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/download.png" width="20"/> <strong>Download the APK</strong>: Get the S3 Alpha app from the official source—fast and secure.</li>
+    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/key.png" width="20"/> <strong>Buy a Key</strong>: Purchase your activation key from <code>@enzosrs</code> on Telegram to unlock premium features.</li>
+    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/play.png" width="20"/> <strong>Open & Play</strong>: Launch the app, enter your key, and trade with AI-guided precision.</li>
   </ol>
-  <h4 style="color: #fff;">Best Rule for Permanent Profit</h4>
-  <p><img src="https://img.icons8.com/color/48/000000/hourglass.png" width="20"/> <strong>Wait for the Right Moment</strong>: Use the in-app trend analyzer to wait for 5 back-to-back losses at any level. Next trades typically yield high profits. Play smart!</p>
+  <h4 style="color: #fff; text-align: center; font-size: 20px; margin-top: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">Pro Tip for Permanent Profit</h4>
+  <p style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; font-size: 16px; text-align: center;">
+    <img src="https://img.icons8.com/color/48/000000/hourglass.png" width="20"/> <strong style="color: #ffd700;">Wait for the Perfect Moment</strong>: Use the in-app trend analyzer to spot 5 back-to-back losses at any level. <span style="font-weight: bold; color: #ffeb3b;">Play the next trade—losses are minimized, and wins are almost guaranteed!</span> Trade smart, win big!
+  </p>
 </div>
 
 ## Key Pricing
@@ -67,7 +69,7 @@
     <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-3.png" width="20"/> <strong>3 Days</strong>: ₹399 (No Refund)</li>
     <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-7.png" width="20"/> <strong>7 Days</strong>: ₹699 (Single-Time Refund: 40-60%)</li>
     <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-15.png" width="20"/> <strong>15 Days</strong>: ₹999 (Single-Time Refund: 40-60%)</li>
-    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48 глядя000000/calendar-31.png" width="20"/> <strong>1 Month</strong>: ₹1499 (Single-Time Refund: 40-60%)</li>
+    <li style="margin: 10px 0;"><img src="https://img.icons8.com/color/48/000000/calendar-31.png" width="20"/> <strong>1 Month</strong>: ₹1499 (Single-Time Refund: 40-60%)</li>
   </ul>
 </div>
 
